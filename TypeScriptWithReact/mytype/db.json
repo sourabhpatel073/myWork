@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": true
+    },
+    {
+      "title": "vdcv",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "123",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
